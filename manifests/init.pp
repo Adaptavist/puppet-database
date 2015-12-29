@@ -28,7 +28,7 @@ class database(
     $conf = {},
     ){
 
-    if $host != undef {
+    if $::host != undef {
         $custom_conf = $host["${name}::conf"]
         $config = $custom_conf ? {
             undef => $conf,
