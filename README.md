@@ -1,4 +1,5 @@
 # Database
+[![Build Status](https://travis-ci.org/Adaptavist/puppet-database.svg?branch=master)](https://travis-ci.org/Adaptavist/puppet-database)
 
 Creates and configures databases on the server based on database type and config passed in hiera.
 
