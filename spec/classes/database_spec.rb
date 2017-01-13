@@ -17,7 +17,8 @@ describe 'database', :type => 'class' do
                         }
                     }
                 },
-            :osfamily => "RedHat"
+            :osfamily => "RedHat",
+            :operatingsystemrelease => '7'
         } }
     let(:params) { { :type => 'mysql' } }
 

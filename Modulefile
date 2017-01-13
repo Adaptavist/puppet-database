@@ -1,5 +1,5 @@
 name 'adaptavist-database'
-version '0.1.7'
+version '1.0.0'
 source 'https://github.com/Adaptavist/puppet-database.git'
 author 'adaptavist'
 summary 'database puppet module' 
